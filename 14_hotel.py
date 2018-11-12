@@ -1,9 +1,3 @@
-# (LIVI & EDELWEISS, 2014) Um hotel com 75 apartamentos deseja fazer uma promoção especial de final de semana, concedendo um desconto de R$ 25,00 na diária. Com isso, espera aumentar sua taxa de ocupação de 50 para 80%. Sendo dado o valor normal da diária, calcule e imprima:
-# O valor da diária promocional;
-# O valor total arrecadado com 80% de ocupação e diária promocional;
-# O valor total arrecadado com 50% de ocupação e diária normal;
-# A diferença entre esses dois valores;
-
 import math
 
 diaria = float(input('Informe o valor da diária:'))

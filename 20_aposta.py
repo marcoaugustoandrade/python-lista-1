@@ -1,5 +1,3 @@
-# (BACKES, 2012) Tres amigos jogaram na loteria. Caso eles ganhem, o prêmio deve ser repartido proporcionalmente ao valor que cada deu para a realização da aposta. Faça um programa que leia quanto cada apostador investiu, o valor do prêmio, e imprima quanto cada um ganharia do prêmio com base no valor investido.
-
 amigo1 = float(input('Informe o valor que o 1º amigo apostou: R$ '))
 amigo2 = float(input('Informe o valor que o 2º amigo apostou: R$ '))
 amigo3 = float(input('Informe o valor que o 3º amigo apostou: R$ '))
